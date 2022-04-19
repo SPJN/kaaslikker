@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kaaslikker/SPJN
+- 👋 Hi, I’m @SPJN
 - 👀 I’m interested in minecraft and coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on currently nothing
-- 📫 You can reach me via discord: σπιν#6223
+- 📫 You can reach me via discord: SPJN#6223
 
 <!---
 kaaslikker/kaaslikker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
